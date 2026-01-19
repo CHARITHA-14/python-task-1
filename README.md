@@ -17,6 +17,7 @@ and running a Python file using an IDE and terminal.
 - Printing output
 - Running Python scripts from terminal
 
+
 ## Task 2: Python Data Types & Type Casting
 
 ### Description
@@ -39,14 +40,37 @@ and demonstrating Python’s dynamic typing behavior.
 - Dynamic typing in Python
 - Code documentation using comments
 
+
+## Task 3: Conditional Statements – Grade Calculator (Today’s Task)
+
+### Description
+This task demonstrates the use of conditional statements in Python by building a
+simple grade calculator. The program takes marks as input, validates the input,
+determines grades using if-elif-else statements, applies logical operators, and
+prints appropriate messages based on the grade.
+
+### Files Included
+- grade_calculator.py
+- Output screenshot
+
+### Concepts Covered
+- Conditional statements (if, elif, else)
+- Logical operators (and, or)
+- Nested conditions
+- Input validation
+- Handling invalid inputs
+- Writing clean and readable driver code
+- Simulating real-world business rules
+
+
 ## How to Run the Scripts
 
 1. Open the project folder in VS Code or any IDE.
 2. Open the terminal.
 3. Run the script using:
 
-   python hello_world.py
+   --> python hello_world.py
 
-   or
+   --> python datatypes_demo.py
 
-   python datatypes_demo.py
+   --> python grade_calculator.py
