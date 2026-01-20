@@ -63,6 +63,30 @@ prints appropriate messages based on the grade.
 - Simulating real-world business rules
 
 
+## Task 4: Looping Statements – Iteration & Automation
+
+### Description
+This task demonstrates the use of looping statements in Python to perform
+iteration and automate repetitive tasks. The program covers different loop
+types, loop control statements, and practical use cases to strengthen
+understanding of how loops work in real-world scenarios.
+
+### Files Included
+- loop_tasks.py
+
+### Concepts Covered
+- for loop
+- while loop
+- break statement
+- continue statement
+- Iterating over strings
+- Multiplication tables
+- range() function with steps
+- Combining loops with conditional statements
+- Preventing infinite loops
+- Real-world loop examples
+
+
 ## How to Run the Scripts
 
 1. Open the project folder in VS Code or any IDE.
@@ -74,3 +98,5 @@ prints appropriate messages based on the grade.
    --> python datatypes_demo.py
 
    --> python grade_calculator.py
+
+   --> python loop_tasks.py
