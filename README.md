@@ -87,6 +87,55 @@ understanding of how loops work in real-world scenarios.
 - Real-world loop examples
 
 
+## Task 5: Functions & Modular Programming – Calculator Application
+
+### Description
+This task demonstrates the use of functions and modular programming in Python by
+building a simple calculator application. The program defines separate functions for
+basic arithmetic operations, uses default arguments, handles runtime errors such as
+division by zero, and executes operations based on user choice. The logic is structured
+into multiple functions to improve readability and maintainability.
+
+### Files Included
+- calculator.py
+- Output screenshot
+
+### Concepts Covered
+- Function definition and invocation
+- Passing parameters and returning values
+- Default arguments in functions
+- Modular code structure
+- Menu-driven program using user input
+- Conditional execution based on user choice
+- Exception handling (division by zero)
+- Writing concise docstrings
+- Independent function testing
+
+
+## Task 6: Python Collections – List, Tuple, and Set Operations
+
+### Description
+This task focuses on understanding Python collections by working with lists, tuples,
+and sets. The program demonstrates how to store and manipulate student data, perform
+operations such as adding, removing, sorting elements, removing duplicates using sets,
+and applying set operations. It also highlights the difference between mutable and
+immutable data types through practical examples.
+
+### Files Included
+- collections_demo.py
+- Output screenshot
+
+### Concepts Covered
+- List creation and manipulation
+- Adding, removing, and sorting list elements
+- Tuple usage for fixed (immutable) data
+- Converting list to set to remove duplicates
+- Set operations (union, intersection, difference)
+- Iterating over list, tuple, and set
+- Mutable vs immutable data types
+- Practical usage of Python collections
+
+
 ## How to Run the Scripts
 
 1. Open the project folder in VS Code or any IDE.
@@ -100,3 +149,7 @@ understanding of how loops work in real-world scenarios.
    --> python grade_calculator.py
 
    --> python loop_tasks.py
+
+   --> python calculator.py
+
+   -->python collections_demo.py
