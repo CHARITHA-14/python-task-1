@@ -136,6 +136,28 @@ immutable data types through practical examples.
 - Practical usage of Python collections
 
 
+## Task 7: Student Records Management Using Dictionary and JSON
+
+### Description
+This task focuses on managing student records using Python dictionaries and JSON. The program demonstrates how to store student details in a dictionary, access keys and values, update and delete entries, and loop through dictionary data. It also shows how to convert dictionary data into JSON format, save it to a file, read the JSON data back into Python, and display the student information in a clean and formatted output.
+
+### Files Included
+- student_records.py
+- student_data.json
+- Output screenshot
+
+### Concepts Covered
+- Dictionary creation and usage
+- Storing student details using key-value pairs
+- Accessing dictionary keys and values
+- Updating and deleting dictionary entries
+- Looping through dictionary elements
+- Converting dictionary to JSON format
+- Saving JSON data to a file
+- Reading JSON data back into Python
+- Printing clean and formatted output
+
+
 ## How to Run the Scripts
 
 1. Open the project folder in VS Code or any IDE.
@@ -152,4 +174,6 @@ immutable data types through practical examples.
 
    --> python calculator.py
 
-   -->python collections_demo.py
+   --> python collections_demo.py
+
+   --> python student_records.py
