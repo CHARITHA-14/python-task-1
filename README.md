@@ -158,6 +158,29 @@ This task focuses on managing student records using Python dictionaries and JSON
 - Printing clean and formatted output
 
 
+## Task 8: File Handling and CSV Operations Using Python
+
+### Description
+This task focuses on understanding file handling in Python. The program demonstrates how to create a text file, write user data into it, read file contents, append additional data, and handle file-related exceptions. It also covers working with CSV files using Python’s csv module, including creating a CSV file, writing multiple rows, reading CSV data, and ensuring files are closed properly using best practices.
+
+### Files Included
+- file_handling.py
+- data.txt
+- data.csv
+- Output screenshot
+
+### Concepts Covered
+- Creating and opening text files using Python
+- Writing user input data into files
+- Reading file contents
+- Appending data to existing files
+- Handling file exceptions using try-except blocks
+- Creating CSV files using the csv module
+- Writing multiple rows into a CSV file
+- Reading data from CSV files
+- Proper file closing using with statement
+
+
 ## How to Run the Scripts
 
 1. Open the project folder in VS Code or any IDE.
@@ -177,3 +200,5 @@ This task focuses on managing student records using Python dictionaries and JSON
    --> python collections_demo.py
 
    --> python student_records.py
+
+   -->python file_handling.py
