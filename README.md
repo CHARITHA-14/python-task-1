@@ -181,6 +181,45 @@ This task focuses on understanding file handling in Python. The program demonstr
 - Proper file closing using with statement
 
 
+## Task 9: Error Handling and Debugging Using Python
+
+### Description
+This task focuses on understanding error handling and debugging techniques in Python. The program demonstrates how to handle runtime errors using try-except blocks, manage multiple exceptions, and ensure smooth program execution using else and finally blocks. It also covers logging errors using Python’s logging module, saving logs to a file, creating custom error messages, and debugging applications by analyzing log files.
+
+### Files Included
+- error_handling.py  
+- error.log  
+
+### Concepts Covered
+- Understanding runtime errors in Python  
+- Using try-except blocks for error handling  
+- Handling multiple exceptions  
+- Using else and finally blocks  
+- Creating custom error messages  
+- Logging errors using the logging module  
+- Saving error logs to a file  
+- Debugging applications using log files  
+
+
+## Task 10: Object-Oriented Programming Using Bank Account System in Python
+
+### Description
+This task focuses on implementing Object-Oriented Programming (OOP) concepts in Python through a real-world bank account system. The program demonstrates the use of classes and objects, constructors, encapsulation using private variables, inheritance, and method overriding. It simulates real banking operations such as deposit, withdrawal, balance checking, and interest calculation using multiple account objects.
+
+### Files Included
+- bank_account.py  
+
+### Concepts Covered
+- Classes and objects in Python  
+- Constructors and instance variables  
+- Encapsulation using private attributes  
+- Inheritance and code reusability  
+- Method overriding  
+- Creating multiple objects  
+- Simulating real-world banking operations  
+- Structured and well-commented Python code  
+
+
 ## How to Run the Scripts
 
 1. Open the project folder in VS Code or any IDE.
@@ -201,4 +240,8 @@ This task focuses on understanding file handling in Python. The program demonstr
 
    --> python student_records.py
 
-   -->python file_handling.py
+   --> python file_handling.py
+
+   --> python error_handling.py
+
+   --> python bank_account.py
