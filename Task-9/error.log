@@ -1,0 +1,6 @@
+2026-01-30 13:27:58,705 - ERROR - Division by zero error occurred
+Traceback (most recent call last):
+  File "c:\Users\chari\Desktop\Elevate Labs python Internship\error_handling.py", line 15, in divide_numbers
+    result = a / b   # may cause ZeroDivisionError
+             ~~^~~
+ZeroDivisionError: division by zero
